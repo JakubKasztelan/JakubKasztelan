@@ -1,4 +1,4 @@
-Jakub Kasztelan
+**Jakub Kasztelan**
 
 **Computer Science Student at Lodz University of Technology**
 
