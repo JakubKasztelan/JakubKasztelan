@@ -11,7 +11,7 @@ I am a second-year Computer Science student currently focusing on **Cybersecuri
 | Category           | Technologies                            |
 | ------------------ | --------------------------------------- |
 | **Languages**      | Java (Spring Boot), Python, C++         |
-| **Security**       | OWASP Top 10, Burp Suite, nmap, ffuf    |
+| **Security**       | OWASP Top 10, Burp Suite, nmap   |
 | **Infrastructure** | Linux, Docker, VMware, VirtualBox       |
 | **Networking**     | CCNA: Introduction to Networks          |
 | **AI**             | Elements of AI (University of Helsinki) |
